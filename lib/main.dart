@@ -5,6 +5,7 @@ import 'package:flutter_kashfy_app/doc_app.dart';
 void main() {
   
   runApp(DocdocApp(
+
     
     appRouter: AppRouter(),
   ));
